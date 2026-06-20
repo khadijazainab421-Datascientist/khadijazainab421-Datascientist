@@ -6,7 +6,7 @@
 <p align="center">
 📊 Turning Data Into Insights Through Data Science & AI
 </p>
-# Hi, I'm Khadija Zainab 👋
+
 
 ## 🚀 About Me
 
@@ -46,9 +46,10 @@ Features:
 
 ## 📫 Contact Me
 
-📧 Email: khadijazainab421@gmail.com
+## 🌐 Connect With Me
 
----
+- 📧 Email: khadijazainab421@gmail.com
+- 💼 LinkedIn: Add your LinkedIn profile here
 
 ⭐ Always learning, always building.
 
@@ -57,3 +58,5 @@ Features:
 ![Khadija's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khadijazainab421-Datascientist&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khadijazainab421-Datascientist&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=khadijazainab421-Datascientist&theme=tokyonight)
