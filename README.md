@@ -4,7 +4,7 @@
 <h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast</h3>
 
 <p align="center">
-Turning Data Into Insights 📊
+📊 Turning Data Into Insights Through Data Science & AI
 </p>
 # Hi, I'm Khadija Zainab 👋
 
