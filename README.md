@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=khadijazainab421-Datascientist&color=blue)
 <h1 align="center">Hi 👋, I'm Khadija Zainab</h1>
 
 <h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast</h3>
