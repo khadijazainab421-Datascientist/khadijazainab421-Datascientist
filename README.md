@@ -49,7 +49,7 @@ Features:
 ## 🌐 Connect With Me
 
 - 📧 Email: khadijazainab421@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/khadija-zainab-76711b39a
+- 💼 LinkedIn: www.linkedin.com/in/khadija-zainab-52b366325
 
 ⭐ Always learning, always building.
 
