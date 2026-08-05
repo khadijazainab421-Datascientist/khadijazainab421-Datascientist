@@ -22,6 +22,11 @@
 - 🚀 Open to internships, freelance work, and collaboration
 
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="700"/>
+</p>
+
 # 🚀 Tech Stack
 
 ### 💻 Programming Languages
@@ -159,4 +164,10 @@
 
 ⭐ Thanks for visiting my profile!
 
+</p>
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
