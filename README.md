@@ -139,15 +139,15 @@
 
 <p>
 
-<a href="https://www.linkedin.com/">
+<a href="www.linkedin.com/in/khadija-zainab-52b366325">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://www.kaggle.com/">
+<a href="[https://www.kaggle.com/](https://www.kaggle.com/khadijazainab)">
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:khadijazainab421@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
