@@ -67,20 +67,25 @@
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </p>
 
-### 🛡️ Cybersecurity & Information Security
+### 🛡️ Cybersecurity Skills
 
 <p>
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
-<img src="https://img.shields.io/badge/SIEM-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OSINT-8E44AD?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Network_Security-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Web_Security-D00000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web_Application_Security-FF6633?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Vulnerability_Assessment-F7931E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Penetration_Testing-D00000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Threat_Detection-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Security_Monitoring-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Incident_Response-2E86C1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Digital_Forensics-34495E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Security_Information_and_Event_Management-4B0082?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OSINT-7952B3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Threat_Intelligence-5B2C6F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Identity_%26_Access_Management-2874A6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linux_Security-557C94?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Security_Analysis-7D3C98?style=for-the-badge"/>
 </p>
+
 
 
 ### ⚙️ Tools & Security
