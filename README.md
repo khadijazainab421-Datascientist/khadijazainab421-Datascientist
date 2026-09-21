@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khadija Zainab</h1>
-<h3 align="center">Data Scientist | Machine Learning Engineer | Power BI Developer | Data Analyst</h3>
-
+<h3 align="center">Data Scientist | Machine Learning Engineer | Power BI Developer | Data Analyst | Cybersecurity Analyst | Information Security Engineer | AI / Emerging Tech Security Analyst  </h3>
+Infr
 <p align="center">
   Passionate about transforming raw data into meaningful insights through Machine Learning, Data Analytics, and Interactive Dashboards.
 </p>
