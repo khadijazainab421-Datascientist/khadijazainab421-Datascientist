@@ -159,8 +159,13 @@ Exploring data-driven methods to identify potentially suspicious network activit
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=khadijazainab421-Datascientist&bg_color=17131F&color=D2C2E8&line=A78BCA&point=E9D5FF&area=true&area_color=51406F&hide_border=true" width="100%" alt="GitHub contribution activity"/>
 
-<img src="https://streak-stats.demolab.com?user=khadijazainab421-Datascientist&hide_border=true&background=17131F&ring=B9A0D9&fire=D2C2E8&currStreakLabel=E5E7EB&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" width="70%" alt="GitHub contribution streak"/>
+## Contribution Activity
 
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khadijazainab421-Datascientist&bg_color=17131F&color=D2C2E8&line=A78BCA&point=E9D5FF&area=true&hide_border=true)](https://github.com/khadijazainab421-Datascientist)
+
+</div>
 </div>
 
 ## Connect With Me
