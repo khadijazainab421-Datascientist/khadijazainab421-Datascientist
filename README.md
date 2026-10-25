@@ -1,125 +1,180 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,55:312E81,100:8B5CF6&height=190&section=header&text=Khadija%20Zainab&fontSize=42&fontColor=F8FAFC&fontAlignY=38&desc=Data%20Science%20%7C%20Analytics%20%7C%20Cybersecurity&descAlignY=60&descSize=16" alt="Khadija Zainab — Data Science, Analytics and Cybersecurity" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:17131F,55:51406F,100:B39DDB&height=190&section=header&text=Khadija%20Zainab&fontSize=42&fontColor=F8FAFC&fontAlignY=38&desc=Data%20Science%20%7C%20Analytics%20%7C%20Cybersecurity&descAlignY=60&descSize=16" width="100%" alt="Khadija Zainab" />
 
 <p>
-  <a href="https://vynex.pk"><img src="https://img.shields.io/badge/Website-vynex.pk-8B5CF6?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="https://github.com/khadijazainab421-Datascientist"><img src="https://img.shields.io/badge/GitHub-Profile-1F2937?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/khadija-zainab-76711b39a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://vynex.pk"><img src="https://img.shields.io/badge/Website-vynex.pk-A78BCA?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/></a>
+<a href="https://github.com/khadijazainab421-Datascientist"><img src="https://img.shields.io/badge/GitHub-Profile-30283B?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/khadija-zainab-76711b39a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-5B7FA6?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-Better data. Smarter decisions. A safer digital world.
+**Better data. Smarter decisions. A safer digital world.**
+
 </div>
 
-About
+---
+
+## About Me
+
 I'm a Data Science student interested in using data and technology to understand problems and build practical solutions. My interests span data analytics, machine learning, business intelligence, and cybersecurity.
+
 - Exploring real-world problems through data analysis and visualization.
 - Building projects with Python, SQL, and Power BI.
-- Learning more about machine learning, network security, and automation.
-- Growing Vynex, a technology and IT solutions business.
-Skills & Tools
+- Learning about machine learning, network security, and automation.
+- Growing [Vynex](https://vynex.pk), a technology and IT solutions business.
+
+## Skills & Technologies
+
 <div align="center">
 
+[![Skills](https://skillicons.dev/icons?i=python,mysql,git,github,vscode,linux&theme=dark)](https://skillicons.dev)
+
+<br/>
+
+<img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=flat-square&logo=powerbi&logoColor=111827" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-79639A?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-Scientific%20Computing-66547F?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Scikit--learn-Machine%20Learning-8B6AAE?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/Matplotlib-Visualization-81708F?style=flat-square" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Excel-Reporting-62836E?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
 
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=flat-square&logo=powerbi&logoColor=111827" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Scikit--learn-Machine%20Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=flat-square" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Excel-Reporting-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
-</p>
+## Areas of Focus
 
-Areas of Focus
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
-Data Science & Analytics
-Working with datasets, exploring patterns, cleaning data, and communicating insights through visualizations.
+### Data Science & Analytics
+
+Exploring datasets, identifying patterns, cleaning data, and communicating insights through visualization.
+
 </td>
 <td width="50%" valign="top">
-Business Intelligence
-Building reports and dashboards that help make business data easier to understand.
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
 
-Machine Learning
-Learning and applying predictive modelling techniques to practical datasets.
+### Business Intelligence
+
+Developing reports and dashboards that make business performance easier to understand.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Machine Learning
+
+Learning predictive modelling techniques and applying them to practical datasets.
+
 </td>
 <td width="50%" valign="top">
-Cybersecurity
+
+### Cybersecurity
+
 Exploring network security, security analytics, and machine-learning approaches to intrusion detection.
+
 </td>
-  </tr>
+</tr>
 </table>
 
-Featured Projects
-Keep these project names aligned with your actual repository names. Add each repository link once you have confirmed it.
+## Featured Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Sales Data Analysis</h3>
-      Exploring and visualizing sales data to identify patterns and useful business insights.<br/><br/>
-      <sub>Python · Pandas · Matplotlib</sub><br/>
-      <a href="https://github.com/khadijazainab421-Datascientist?tab=repositories">Explore repositories →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>SQL Portfolio</h3>
-      Practising SQL queries and data analysis using structured datasets.<br/><br/>
-      <sub>SQL · SQLite · Data Analysis</sub><br/>
-      <a href="https://github.com/khadijazainab421-Datascientist?tab=repositories">Explore repositories →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Sales Dashboard</h3>
-      Presenting sales performance through a clear, interactive business dashboard.<br/><br/>
-      <sub>Power BI · Data Visualization</sub><br/>
-      <a href="https://github.com/khadijazainab421-Datascientist?tab=repositories">Explore repositories →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Customer Churn Prediction</h3>
-      Exploring machine-learning methods for predicting customer churn.<br/><br/>
-      <sub>Python · Scikit-learn · Machine Learning</sub><br/>
-      <a href="https://github.com/khadijazainab421-Datascientist?tab=repositories">Explore repositories →</a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>Network Intrusion Detection</h3>
-      Exploring data-driven approaches to identifying potentially suspicious network activity.<br/><br/>
-      <sub>Python · Machine Learning · Cybersecurity</sub><br/>
-      <a href="https://github.com/khadijazainab421-Datascientist?tab=repositories">Explore repositories →</a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### Sales Data Analysis
+
+Exploring sales data to identify patterns and business insights.
+
+`Python` `Pandas` `Matplotlib`
+
+[View my repositories →](https://github.com/khadijazainab421-Datascientist?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+### SQL Portfolio
+
+Practising SQL queries and analysing structured datasets.
+
+`SQL` `SQLite` `Data Analysis`
+
+[View my repositories →](https://github.com/khadijazainab421-Datascientist?tab=repositories)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Sales Dashboard
+
+Presenting sales performance through a business dashboard.
+
+`Power BI` `Data Visualization`
+
+[View my repositories →](https://github.com/khadijazainab421-Datascientist?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+### Customer Churn Prediction
+
+Exploring machine-learning techniques for customer churn prediction.
+
+`Python` `Scikit-learn` `Machine Learning`
+
+[View my repositories →](https://github.com/khadijazainab421-Datascientist?tab=repositories)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### Network Intrusion Detection
+
+Exploring data-driven methods to identify potentially suspicious network activity.
+
+`Python` `Machine Learning` `Cybersecurity`
+
+[View my repositories →](https://github.com/khadijazainab421-Datascientist?tab=repositories)
+
+</td>
+</tr>
 </table>
 
-GitHub Overview
+## GitHub Overview
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=khadijazainab421-Datascientist&show_icons=true&hide_border=true&bg_color=0B1020&title_color=C4B5FD&text_color=E5E7EB&icon_color=A78BFA&rank_icon=github" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadijazainab421-Datascientist&layout=compact&hide_border=true&bg_color=0B1020&title_color=C4B5FD&text_color=E5E7EB" alt="Most used languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=khadijazainab421-Datascientist&show_icons=true&hide_border=true&bg_color=17131F&title_color=D2C2E8&text_color=E5E7EB&icon_color=B9A0D9&rank_icon=github" alt="GitHub statistics"/>
 
-<img src="https://streak-stats.demolab.com?user=khadijazainab421-Datascientist&hide_border=true&background=0B1020&ring=A78BFA&fire=C4B5FD&currStreakLabel=E5E7EB&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub contribution streak" width="70%" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadijazainab421-Datascientist&layout=compact&hide_border=true&bg_color=17131F&title_color=D2C2E8&text_color=E5E7EB" alt="Most used languages"/>
 
 </div>
 
-Connect
+## Contribution Activity
+
 <div align="center">
 
-<a href="https://vynex.pk">Website: vynex.pk</a> ·
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khadijazainab421-Datascientist&bg_color=17131F&color=D2C2E8&line=A78BCA&point=E9D5FF&area=true&area_color=51406F&hide_border=true" width="100%" alt="GitHub contribution activity"/>
+
+<img src="https://streak-stats.demolab.com?user=khadijazainab421-Datascientist&hide_border=true&background=17131F&ring=B9A0D9&fire=D2C2E8&currStreakLabel=E5E7EB&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" width="70%" alt="GitHub contribution streak"/>
+
+</div>
+
+## Connect With Me
+
+<div align="center">
+
+<a href="https://vynex.pk">Website</a> ·
 <a href="https://www.linkedin.com/in/khadija-zainab-76711b39a/">LinkedIn</a> ·
 <a href="https://github.com/khadijazainab421-Datascientist">GitHub</a>
+
+<br/><br/>
+
+<sub>Learn · Build · Create · Make an impact</sub>
+
 </div>
 
-<div align="center">
-  <sub>Learn · Build · Create · Make an impact</sub>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,55:312E81,100:0B1020&height=90&section=footer" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BCA,55:51406F,100:17131F&height=90&section=footer" width="100%" alt=""/>
