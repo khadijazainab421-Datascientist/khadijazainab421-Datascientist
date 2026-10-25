@@ -1,200 +1,54 @@
-<h1 align="center">Hi 👋, I'm Khadija Zainab</h1>
-<h3 align="center">Data Scientist | Machine Learning Engineer | Power BI Developer | Data Analyst | Cybersecurity Analyst | Information Security Engineer | AI / Emerging Tech Security Analyst  </h3>
-<p align="center">
-  Passionate about transforming data into meaningful insights and building intelligent, secure solutions through Machine Learning, Data Analytics, AI, Cybersecurity, Information Security, and Interactive Dashboards.
 
+# Khadija Zainab
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Data+Scientist;Machine+Learning+Engineer;Power+BI+Developer;Python+Developer;Always+Learning+New+Technologies" />
-</p>
+**Data Science | Analytics | Cybersecurity**
 
----
+I am a Data Science student interested in analytical problem-solving, machine learning, business intelligence, and cybersecurity. I enjoy exploring data, building practical projects, and understanding how technology can solve real-world problems.
 
-# 👩‍💻 About Me
+## About
 
-- 🎓 Data Science Enthusiast
-- 📊 Power BI Dashboard Developer
-- 🤖 Building Machine Learning Projects
-- 📈 Passionate about Data Analytics & Visualization
-- 🌱 Currently learning Deep Learning & Advanced Analytics
-- 💡 Interested in AI, Predictive Analytics & Business Intelligence
-- 🚀 Open to internships, freelance work, and collaboration
+- Studying Data Science and developing practical technical skills.
+- Working with Python, SQL, Power BI, and data analysis tools.
+- Exploring machine learning and cybersecurity through projects.
+- Interested in the intersection of data, business, and technology.
+- Building and growing Vynex, a technology and IT solutions business.
 
----
+## Technical Skills
 
-# 🚀 Tech Stack
+**Programming & Data Analysis**
+Python · SQL · Pandas · NumPy · Matplotlib
 
-### 💻 Programming Languages
+**Machine Learning**
+Scikit-learn · Data Preprocessing · Exploratory Data Analysis · Predictive Modeling
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+**Business Intelligence**
+Power BI · Excel · Data Visualization · Reporting
 
-### 🌐 Web Development
+**Cybersecurity**
+Network Security · Security Analytics · Network Intrusion Detection
 
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-</p>
+**Tools & Platforms**
+Git · GitHub · Jupyter Notebook · VS Code
 
-### 📊 Data Science & Machine Learning
+## Selected Projects
 
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-D00000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Analysis-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Visualization-8E44AD?style=for-the-badge"/>
-</p>
+- **Sales Data Analysis** — Exploring sales data using Python, Pandas, and Matplotlib.
+- **Customer Churn Prediction** — Applying machine learning to customer churn prediction.
+- **SQL Portfolio Project** — Practicing data analysis and querying with SQLite.
+- **Sales Dashboard** — Presenting sales performance through Power BI.
+- **House Price Prediction** — Exploring regression-based price prediction.
+- **Network Intrusion Detection** — Applying machine learning to network security data.
 
-### 📈 Business Intelligence
+## Current Interests
 
-<p>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</p>
+Data Analytics · Machine Learning · Business Intelligence · Cybersecurity
 
-### 🛡️ Cybersecurity Skills
+## Connect
 
-<p>
-<img src="https://img.shields.io/badge/Network_Security-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Web_Application_Security-FF6633?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vulnerability_Assessment-F7931E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Penetration_Testing-D00000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Threat_Detection-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Security_Monitoring-8E44AD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Incident_Response-2E86C1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Digital_Forensics-34495E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Security_Information_and_Event_Management-4B0082?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OSINT-7952B3?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Threat_Intelligence-5B2C6F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Identity_%26_Access_Management-2874A6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Linux_Security-557C94?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Security_Analysis-7D3C98?style=for-the-badge"/>
-</p>
+- Website: https://vynex.pk
+- GitHub: https://github.com/khadijazainab421-Datascientist
+- Email: khadijazainab421@gmail.com
 
-
-
-### ⚙️ Tools & Security
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLMap-CC2927?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/John_the_Ripper-333333?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hydra-2C2C2C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Netcat-222222?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OSINT-6D28D9?style=for-the-badge"/>
-</p>
-
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=khadijazainab421-Datascientist&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=khadijazainab421-Datascientist&theme=tokyonight&row=1&column=6"/>
-
-</p>
-
----
-
-# 📂 Featured Projects
-
-## 📊 Power BI
-
-- 📈 Sales Performance Dashboard
-
----
-
-## 🤖 Machine Learning
-
-- Fake News Detection
-- Credit Card Fraud Detection
-- Titanic Survival Prediction
-- Customer Churn Prediction
-- House Price Prediction
-
----
-
-## 🌐 Web Development
-
-- Vynex Website
-- VPS Hosting Platform
-- Cloud Infrastructure Website
-
----
-
-# 📈 Currently Learning
-
-- Deep Learning
-- Neural Networks
-- Advanced Power BI
-- Tableau
-- Feature Engineering
-- Model Deployment
-
----
-
-# 📫 Connect With Me
-
-<p>
-
-<a href="www.linkedin.com/in/khadija-zainab-52b366325">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="[https://www.kaggle.com/](https://www.kaggle.com/khadijazainab)">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle"/>
-</a>
-
-<a href="mailto:khadijazainab421@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-⭐ Thanks for visiting my profile!
-
-</p>
 
 ## 🐍 Contribution Graph
 
