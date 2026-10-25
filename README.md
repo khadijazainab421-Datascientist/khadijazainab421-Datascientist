@@ -131,6 +131,14 @@ Here are some of the project areas I am exploring and developing.
 
 </div>
 
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![GitHub Contributions](https://ghchart.rshah.org/A78BCA/khadijazainab421-Datascientist)](https://github.com/khadijazainab421-Datascientist)
+
+</div>
+
 
 ## 🤝 Connect With Me
 
