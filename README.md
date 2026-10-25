@@ -133,11 +133,15 @@ Here are some of the project areas I am exploring and developing.
 
 ## 📈 Contribution Activity
 
+
+## 📈 Contribution Activity
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khadijazainab421-Datascientist&bg_color=17131F&color=D2C2E8&line=A78BCA&point=E9D5FF&area=true&area_color=51406F&hide_border=true" width="100%" alt="GitHub contribution activity" />
+[![GitHub Contributions](https://ghchart.rshah.org/A78BCA/khadijazainab421-Datascientist)](https://github.com/khadijazainab421-Datascientist)
 
 </div>
+
 
 ## 🤝 Connect With Me
 
